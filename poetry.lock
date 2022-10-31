@@ -34,7 +34,7 @@ version = "4.1.2"
 description = "A high-level Python web framework that encourages rapid development and clean, pragmatic design."
 category = "main"
 optional = false
-python-versions = ">=3.7"
+python-versions = ">=3.8"
 
 [package.dependencies]
 asgiref = ">=3.5.2,<4"
@@ -51,7 +51,7 @@ version = "20.1.0"
 description = "WSGI HTTP Server for UNIX"
 category = "main"
 optional = false
-python-versions = ">=3.7"
+python-versions = ">=3.5"
 
 [package.dependencies]
 setuptools = ">=3.0"
@@ -68,7 +68,7 @@ version = "2.9.5"
 description = "psycopg2 - Python-PostgreSQL Database Adapter"
 category = "main"
 optional = false
-python-versions = ">=3.7"
+python-versions = ">=3.6"
 
 [[package]]
 name = "setuptools"
@@ -115,7 +115,7 @@ brotli = ["Brotli"]
 
 [metadata]
 lock-version = "1.1"
-python-versions = "^3.7"
+python-versions = "^3.10"
 content-hash = "5cbbbc44cc97a76d33f9f33336fd2e2cc414504f348e85bdf657646dc3cc923c"
 
 [metadata.files]
